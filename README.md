@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahitnath
-- 👀 I’m interested in Full Stack Development and Machine Learning as well
-- 🌱 I’m currently learning ExtJs
-- 💞️ I’m looking to collaborate on ...
+- 👀 Full Stack Development and Machine Learning as well
+- 🌱 currently learning ExtJs
+- 💞️ looking to collaborate on ...
 - 📫 How to reach me : rahitnath1998dgp@gmail.com
 
 <!---
